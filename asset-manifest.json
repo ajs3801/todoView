@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/todoView/static/css/main.928f196d.css",
-    "main.js": "/todoView/static/js/main.6daec81c.js",
+    "main.css": "/todoView/static/css/main.26bcd988.css",
+    "main.js": "/todoView/static/js/main.22d94a4f.js",
     "static/media/profile.jpeg": "/todoView/static/media/profile.8f5591229490560c2161.jpeg",
     "static/media/lightMode.svg": "/todoView/static/media/lightMode.ebb7482b6456b638c19c7a7119f24781.svg",
     "static/media/setting.svg": "/todoView/static/media/setting.5a1e80bdb209a4bed66271ae24b06886.svg",
@@ -14,11 +14,11 @@
     "index.html": "/todoView/index.html",
     "static/media/plus.svg": "/todoView/static/media/plus.8bb1df4b2d5e424d83c4655a61f89462.svg",
     "static/media/GatheringPlus.svg": "/todoView/static/media/GatheringPlus.cb3b2349416ec8b4853779ff2c03be39.svg",
-    "main.928f196d.css.map": "/todoView/static/css/main.928f196d.css.map",
-    "main.6daec81c.js.map": "/todoView/static/js/main.6daec81c.js.map"
+    "main.26bcd988.css.map": "/todoView/static/css/main.26bcd988.css.map",
+    "main.22d94a4f.js.map": "/todoView/static/js/main.22d94a4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.928f196d.css",
-    "static/js/main.6daec81c.js"
+    "static/css/main.26bcd988.css",
+    "static/js/main.22d94a4f.js"
   ]
 }
